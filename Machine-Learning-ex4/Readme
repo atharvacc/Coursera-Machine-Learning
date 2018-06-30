@@ -1,0 +1,1 @@
+Implemented forward and backward propogation to train a DNN to recognize numbers based on pixels.
